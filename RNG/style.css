@@ -1,0 +1,14 @@
+body{
+    font-family: helvetica;
+    text-align: center;
+}
+
+#btn{
+    font-size: 5em;
+    padding: 5x 25px;
+    border-radius: 25px;
+}
+
+.lbl{
+    font-size: 8em;
+}
